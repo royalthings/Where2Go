@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>url</key>
+		<string>vU09wQerc54</string>
+		<key>title</key>
+		<string>Музей кораблестроения и флота</string>
+		<key>subtitle</key>
+		<string>The Museum of Shipbuilding and Fleet</string>
+		<key>latitude</key>
+		<real>46.978173</real>
+		<key>longitude</key>
+		<real>31.9858405</real>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Музей Старофлотские казармы</string>
+		<key>url</key>
+		<string>vU09wQerc54</string>
+		<key>subtitle</key>
+		<string>Mykolayiv Oblast Local History Museum</string>
+		<key>latitude</key>
+		<real>46.9721225</real>
+		<key>longitude</key>
+		<real>32.0068405</real>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Николаевская Астрономическая Обсерватория</string>
+		<key>url</key>
+		<string>vU09wQerc54</string>
+		<key>subtitle</key>
+		<string>Nikolaev Observatory</string>
+		<key>latitude</key>
+		<real>46.9721493</real>
+		<key>longitude</key>
+		<real>31.9728794</real>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Зоопарк</string>
+		<key>url</key>
+		<string>vU09wQerc54</string>
+		<key>subtitle</key>
+		<string>Зоопарк города Николаева</string>
+		<key>latitude</key>
+		<real>46.9605263</real>
+		<key>longitude</key>
+		<real>32.0348063</real>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Музей подпольного партизанского движения</string>
+		<key>url</key>
+		<string>vU09wQerc54</string>
+		<key>subtitle</key>
+		<string>Underground Guerilla Movement Museum</string>
+		<key>latitude</key>
+		<real>46.9726459</real>
+		<key>longitude</key>
+		<real>31.9905469</real>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Парк Победы</string>
+		<key>url</key>
+		<string>vU09wQerc54</string>
+		<key>subtitle</key>
+		<string>Парк Победы в городе Николаев</string>
+		<key>latitude</key>
+		<real>46.9854619</real>
+		<key>longitude</key>
+		<real>31.9976538</real>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Флотський бульвар</string>
+		<key>url</key>
+		<string>vU09wQerc54</string>
+		<key>subtitle</key>
+		<string>Флотський бульвар в городе Николаев</string>
+		<key>latitude</key>
+		<real>46.9789485</real>
+		<key>longitude</key>
+		<real>31.9888248</real>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Художественный музей имени Верещагина</string>
+		<key>url</key>
+		<string>vU09wQerc54</string>
+		<key>subtitle</key>
+		<string>Vereshchagin Art Museum</string>
+		<key>latitude</key>
+		<real>46.973334</real>
+		<key>longitude</key>
+		<real>31.9860962</real>
+	</dict>
+</array>
+</plist>
